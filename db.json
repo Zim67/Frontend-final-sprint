@@ -1,0 +1,20 @@
+{
+    "shoppingcart": [
+      {
+        "id": 2,
+        "name": " Mystery Masterpiece",
+        "description": "Montblanc made, over 800 diamonds and three variations involving emeralds, sapphires, and rubies along its body",
+        "price": 730000,
+        "icon": "/images/pen2.jpg",
+        "quantity": 2
+      },
+      {
+        "id": 13,
+        "name": " La Dona Menagerie",
+        "description": "Cartier made, inspired by a gold crocodile necklace from Cartier, who used a similar pattern to create a limited line of expensive pens",
+        "price": 4000,
+        "icon": "/images/pen13.jpg",
+        "quantity": 1
+      }
+    ]
+  }
