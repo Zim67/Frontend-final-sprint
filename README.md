@@ -1,5 +1,11 @@
 # Frontend-final-sprint
 
+---
+
+# Description: 
+Front-end final sprint project implementing responsive design and interactive user interface components.
+
+---
 
 This project was bootstrapped with Create React App.
 
